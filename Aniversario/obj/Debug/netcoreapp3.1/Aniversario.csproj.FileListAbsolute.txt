@@ -1,0 +1,13 @@
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.csprojAssemblyReference.cache
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.AssemblyInfoInputs.cache
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.AssemblyInfo.cs
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.csproj.CoreCompileInputs.cache
+C:\src\desktop\Aniversario\Aniversario\bin\Debug\netcoreapp3.1\Aniversario.exe
+C:\src\desktop\Aniversario\Aniversario\bin\Debug\netcoreapp3.1\Aniversario.deps.json
+C:\src\desktop\Aniversario\Aniversario\bin\Debug\netcoreapp3.1\Aniversario.runtimeconfig.json
+C:\src\desktop\Aniversario\Aniversario\bin\Debug\netcoreapp3.1\Aniversario.runtimeconfig.dev.json
+C:\src\desktop\Aniversario\Aniversario\bin\Debug\netcoreapp3.1\Aniversario.dll
+C:\src\desktop\Aniversario\Aniversario\bin\Debug\netcoreapp3.1\Aniversario.pdb
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.dll
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.pdb
+C:\src\desktop\Aniversario\Aniversario\obj\Debug\netcoreapp3.1\Aniversario.genruntimeconfig.cache
